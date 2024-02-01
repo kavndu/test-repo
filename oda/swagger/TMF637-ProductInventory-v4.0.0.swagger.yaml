@@ -628,9 +628,9 @@ securityDefinitions:
       srescope: "srescope"
       srescopeone: "srescopeone description"
     x-scopes-bindings:
-      srescope: "rol1-1"
-      srescopetwo: "rol1-2"
-      srescopeone: "rol1-2"
+      srescope: "rol1-3"
+      srescopetwo: "rol1-4"
+      srescopeone: "rol1-4"
 definitions:
   AgreementItemRef:
     type: object
