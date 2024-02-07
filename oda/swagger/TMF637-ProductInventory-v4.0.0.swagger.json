@@ -908,9 +908,9 @@
         "srescopeone": "srescopeone description"
       },
       "x-scopes-bindings": {
-        "srescope": "0",
-        "srescopetwo": "1",
-        "srescopeone": "2"
+        "srescope": "X",
+        "srescopetwo": "xx",
+        "srescopeone": "xxx"
       }
     }
   },
