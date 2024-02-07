@@ -908,9 +908,9 @@
         "srescopeone": "srescopeone description"
       },
       "x-scopes-bindings": {
-        "srescope": "admin_1234_566",
-        "srescopetwo": "admin_12_344566",
-        "srescopeone": "admin_12344456_6"
+        "srescope": "0",
+        "srescopetwo": "1",
+        "srescopeone": "2"
       }
     }
   },
